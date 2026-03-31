@@ -10,7 +10,7 @@
   
 "PNAS":
   url: https://www.pnas.org/
-  color: "#00416a"
+  color: "#1f75b9"
 
 "Sci. Rep.":
   url: https://www.nature.com/srep/
@@ -22,7 +22,7 @@
 
 "J. R. Soc. Interface":
   url: https://royalsocietypublishing.org/journal/rsif
-  color: "#0d4b7e"
+  color: "#c4164a"
 
 "arXiv":
   url: https://arxiv.org/
