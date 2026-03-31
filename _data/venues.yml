@@ -7,3 +7,23 @@
 
 "Vision":
   color: "#009f36"
+  
+"PNAS":
+  url: https://www.pnas.org/
+  color: "#00416a"
+
+"Sci. Rep.":
+  url: https://www.nature.com/srep/
+  color: "#b41f24"
+
+"Curr. Biol.":
+  url: https://www.cell.com/current-biology/home
+  color: "#0b5e2a"
+
+"J. R. Soc. Interface":
+  url: https://royalsocietypublishing.org/journal/rsif
+  color: "#0d4b7e"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
