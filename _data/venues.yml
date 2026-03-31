@@ -10,20 +10,20 @@
   
 "PNAS":
   url: https://www.pnas.org/
-  color: "#1f75b9"
+  color: "#00369f"
 
 "Sci. Rep.":
   url: https://www.nature.com/srep/
-  color: "#b41f24"
+  color: "#00369f"
 
 "Curr. Biol.":
   url: https://www.cell.com/current-biology/home
-  color: "#0b5e2a"
+  color: "#00369f"
 
 "J. R. Soc. Interface":
   url: https://royalsocietypublishing.org/journal/rsif
-  color: "#c4164a"
+  color: "#00369f"
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#b31b1b"
+  color: "#00369f"
